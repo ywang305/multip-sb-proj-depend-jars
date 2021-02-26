@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demoapp;
 
 
 import com.example.demobase.MemberRepo;
